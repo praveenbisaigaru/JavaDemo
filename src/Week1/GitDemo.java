@@ -1,0 +1,12 @@
+package Week1;
+
+public class GitDemo {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		System.out.println("Git and GitHub Demo");
+	}
+
+}
