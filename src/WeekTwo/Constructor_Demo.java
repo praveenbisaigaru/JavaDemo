@@ -5,10 +5,11 @@ public class Constructor_Demo {
 	/*
 	 * Rules/ Concepts of constructor 
 	 * 1. Constructor a special type of method 
-	 * 2.
-	 * Constructor Name must to same as the class name 3. It can not contain return
-	 * type 4. It is used to initialize an instance variables 5. It will execute
-	 * during object creation 6. It will execute one time for every object creation
+	 * 2.Constructor Name must to same as the class name 
+	 * 3. It can not contain return type 
+	 * 4. It is used to initialize an instance variables 
+	 * 5. It will execute during object creation 
+	 * 6. It will execute one time for every object creation
 	 * 7. It can contain any number of parameters 1) Zero parameterized constructor
 	 * (Default constructor) 2. parameterized constructor 8. A class may contain any
 	 * number of constructors but the order of the parameters or number of
